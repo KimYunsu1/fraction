@@ -31,7 +31,7 @@ import static com.example.fractionstart1.statics.c;
 import static com.example.fractionstart1.statics.whatpercent1;
 import static com.example.fractionstart1.totalscore.totalcount;
 import static com.example.fractionstart1.statics.nameofwrong;
-import static com.example.fractionstart1.statics.qos;
+
 public class st2frag extends Fragment {
 
 
